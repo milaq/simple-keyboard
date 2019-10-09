@@ -26,6 +26,7 @@
         <item>@string/keyboard_theme_dark_border</item>
         <item>@string/keyboard_theme_system</item>
         <item>@string/keyboard_theme_system_border</item>
+        <item>@string/keyboard_theme_light_modern</item>
     </string-array>
     <!-- An element must be a keyboard theme id of
          {@link rkr.simplekeyboard.inputmethod.keyboard.KeyboardTheme#THEME_ID_ICS} etc. -->
@@ -34,6 +35,7 @@
         <item>4</item>
         <item>1</item>
         <item>2</item>
+        <item>5</item>
     </integer-array>
 
     <array name="keyboard_theme_colors" translatable="false">
@@ -43,5 +45,6 @@
         <item>#263238</item>
         <item>@android:color/transparent</item>
         <item>@android:color/transparent</item>
+        <item>#F7F7F8</item>
     </array>
 </resources>

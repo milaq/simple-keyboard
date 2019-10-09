@@ -102,6 +102,7 @@
     <string name="keyboard_theme_light" translatable="false">Material Light</string>
     <string name="keyboard_theme_system" translatable="false">System Default</string>
     <string name="keyboard_theme_system_border" translatable="false">System Default Border</string>
+    <string name="keyboard_theme_light_modern" translatable="false">Material Light Modern</string>
 
     <!-- Title of the preference settings for custom input styles (language and keyboard layout pairs) [CHAR LIMIT=35]-->
     <string name="custom_input_styles_title">Custom input styles</string>
