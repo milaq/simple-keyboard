@@ -8,7 +8,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 76
-        versionName "4.1"
+        versionName "4.1-mlq"
     }
     buildTypes {
         release {
