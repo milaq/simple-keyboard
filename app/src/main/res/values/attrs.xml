@@ -125,7 +125,7 @@
             <enum name="LXXDark" value="4" />
             <enum name="LXXSystem" value="5" />
             <enum name="LXXSystemBorder" value="6" />
-            <enum name="LXXLightModern" value="5" />
+            <enum name="LXXLightModern" value="7" />
         </attr>
         <!-- Keyboard top, bottom, left, right edges paddings, in pixels or in the propotion of
              keyboard height. -->
