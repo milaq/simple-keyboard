@@ -47,8 +47,8 @@
     <dimen name="config_key_preview_offset_lxx">50dp</dimen>
     <dimen name="config_key_preview_height_lxx">122dp</dimen>
     <dimen name="config_key_preview_width_lxx">0dp</dimen>
-    <dimen name="config_key_preview_offset_lxx_modern">52.0dp</dimen>
-    <dimen name="config_key_preview_height_lxx_modern">128dp</dimen>
+    <dimen name="config_key_preview_offset_lxx_modern">50.0dp</dimen>
+    <dimen name="config_key_preview_height_lxx_modern">126dp</dimen>
     <fraction name="config_key_preview_text_ratio">82%</fraction>
     <fraction name="config_key_letter_ratio_lxx">55%</fraction>
     <fraction name="config_key_large_letter_ratio_lxx">90%</fraction>
